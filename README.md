@@ -6,7 +6,7 @@ This app is to **EdynamicsLog** test
 
 # DEMO
 
-[![Video de ejemplo](https://raw.githubusercontent.com/DanielOrtegaMX/CameraPixel/blob/main/demo/demo.MP4)](https://raw.githubusercontent.com/DanielOrtegaMX/CameraPixel/blob/main/demo/demo.MP4)
+[![Video de ejemplo](https://github.com/DanielOrtegaMX/CameraPixel/blob/main/demo/demo.MP4)](https://github.com/DanielOrtegaMX/CameraPixel/blob/main/demo/demo.MP4)
 Haz clic en la imagen para ver el video.
 
 ## Step 1: Start the Metro Server
